@@ -1,0 +1,7 @@
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\bin\Debug\AnimalWagons.exe.config
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\bin\Debug\AnimalWagons.exe
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\bin\Debug\AnimalWagons.pdb
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\obj\Debug\AnimalWagons.csprojAssemblyReference.cache
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\obj\Debug\AnimalWagons.csproj.CoreCompileInputs.cache
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\obj\Debug\AnimalWagons.exe
+c:\users\joris\source\repos\AnimalWagons\AnimalWagons\obj\Debug\AnimalWagons.pdb
